@@ -1,0 +1,34 @@
+.container.career__container {
+    width: 80%;
+    gap: 12%;    
+}
+
+.vertical-timeline-element--education {
+    color: var(--color-white);
+}
+
+.vertical-timeline-element--work {
+    color: var(--color-white);
+}
+
+.vertical-timeline-element--military {
+    color: var(--color-white);
+}
+
+.container.career__container h3 {
+    /* margin: 2rem 0 2.6rem; */
+    color: var(--color-primary);
+    /* font-size: 1rem; */
+}
+
+.container.career__container h4 {
+    /* margin: 2rem 0 2.6rem; */
+    color: var(--color-light);
+    font-size: 0.8rem;
+}
+
+.container.career__container p {
+    /* margin: 2rem 0 2.6rem; */
+    color: var(--color-white);
+    font-size: 0.9rem;
+}
