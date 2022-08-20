@@ -1,5 +1,6 @@
 {
   "name": "jaykwon-portfolio",
+  "homepage": "https://jaykwon-portfolio.herokuapp.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
